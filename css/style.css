@@ -401,9 +401,10 @@ body.offcanvas {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: absolute;
+  position: relative;
   width: 100%;
   height: auto;
+  object-fit: cover;
  }
 
 .colorlib-heading {
