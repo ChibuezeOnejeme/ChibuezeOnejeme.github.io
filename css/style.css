@@ -402,7 +402,7 @@ body.offcanvas {
   background-position: center center;
   background-repeat: no-repeat;
   position: absolute;
-  min-width: 100%;
+  width: 100%;
   height: auto;
  }
 
