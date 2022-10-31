@@ -401,7 +401,10 @@ body.offcanvas {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  position: absolute; }
+  position: absolute;
+  min-width: 100%;
+  height: auto;
+ }
 
 .colorlib-heading {
   font-size: 18px;
