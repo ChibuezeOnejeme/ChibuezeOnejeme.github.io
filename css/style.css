@@ -398,10 +398,10 @@ body.offcanvas {
       padding-bottom: 8em; } }
 
 .author-img {
-  background-size:contain;
+  background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
-  position: relative;
+  position: static;
  }
 
 .colorlib-heading {
